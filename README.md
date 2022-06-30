@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Vue-Admin
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+基於 Vue3.0, Vite, Naive UI 的後臺管理系統
 
-## Recommended IDE Setup
+## 參考資料
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin)
+- [Vue Naive Admin Docs](https://zclzone.github.io/vue-naive-admin-docs/)
