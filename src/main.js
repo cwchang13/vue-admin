@@ -7,9 +7,7 @@ import { setupStore } from '@/store'
 import App from './App.vue'
 
 const app = createApp(App)
-
-setupRouter(app)
-setupRouter(app)
 setupStore(app)
+setupRouter(app)
 
 app.mount('#app')
